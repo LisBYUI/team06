@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setTitle("Team Activity - Using AsyncTask");
+        setTitle("06 Prove : Assignment - Using AsyncTask");
         setContentView(R.layout.activity_main);
         final String fileName = "numbers.txt";
 
